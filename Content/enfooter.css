@@ -1,0 +1,66 @@
+#footer_logos{padding-bottom: 0px;}
+#footer_logos li{margin-right:0px;}
+#footer_logos li a{background-image:url("./images/footer_logos.png"); background-repeat: no-repeat;height:49px;}
+#footer_logos .about a{background: none;margin-top:27px;}
+#brand_bar_HH {margin-top: 8px;width: 185px;height: 52px;background: url("./images/footer_logos.png") no-repeat -9px -106px transparent;}
+#footer_logos #brand_bar_HH a{display: block;background: none;width: 143px;height: 52px;}
+#footer_logos .brand_name{display:block;text-indent:-9999em;font-size:0;}
+#footer_logos #brand_bar_WA .footer_logo{background-position:0 0;margin-left:14px;width:55px;}
+#footer_logos #brand_bar_WA .footer_logo:hover{background-position:0 -49px;}
+#footer_logos #brand_bar_CH .footer_logo{background-position:-55px 0;width:70px;}
+#footer_logos #brand_bar_CH .footer_logo:hover{background-position:-55px -49px;}
+#footer_logos #brand_bar_HI .footer_logo{background-position:-125px 0;width:60px;}
+#footer_logos #brand_bar_HI .footer_logo:hover{background-position:-125px -49px;}
+#footer_logos #brand_bar_DT .footer_logo{background-position:-185px 0;width:67px;}
+#footer_logos #brand_bar_DT .footer_logo:hover{background-position:-185px -49px;}
+#footer_logos #brand_bar_ES .footer_logo{background-position:-252px 0;width:60px;}
+#footer_logos #brand_bar_ES .footer_logo:hover{background-position:-252px -49px;}
+#footer_logos #brand_bar_GI .footer_logo{background-position:-315px 0;width:80px;}
+#footer_logos #brand_bar_GI .footer_logo:hover{background-position:-315px -49px;}
+#footer_logos #brand_bar_HP .footer_logo{background-position:-395px 0;width:60px;}
+#footer_logos #brand_bar_HP .footer_logo:hover{background-position:-395px -49px;}
+#footer_logos #brand_bar_HW .footer_logo{background-position:-455px 0;width:60px;}
+#footer_logos #brand_bar_HW .footer_logo:hover{background-position:-455px -49px;}
+#footer_logos #brand_bar_HT .footer_logo{background-position:-515px 0;width:65px;}
+#footer_logos #brand_bar_HT .footer_logo:hover{background-position:-515px -49px;}
+#footer_logos #brand_bar_GV .footer_logo{background-position:-580px 0;width:80px;}
+#footer_logos #brand_bar_GV .footer_logo:hover{background-position:-580px -49px;}
+#brand_bar .about_brands{color:#bc9c5e;float:right;margin:25px 0 0 10px;}
+#brand_bar .about_brands:hover{color:#888;}
+#footer_nav_container{padding:20px 10px;border-bottom:solid 1px #eee;}
+#footer_nav_container ul{list-style:none;margin:0;padding:0;}
+.footer_column_list{width:237px;float:left;color:#28557c;font-size:12px;}
+#footer_bottom_container h6{margin:0;font-size:10px;color:#888;}
+.footer_column_list ul a{font-size:10px;color:#888;}
+.footer_column_list ul li{margin-top:5px;}
+#footer_bottom_container{padding:30px 10px;}
+.footer_links_list{font-size:10px;list-style:none outside none;margin:0 0 12px 0;padding:0;color:#888;float:left;}
+.footer_links_list li,#footer_bottom_container h6{border-right:1px solid #888;float:left;line-height:1;
+	margin-right:8px;padding-right:8px;white-space:nowrap;margin-bottom:2px;padding-bottom:2px;padding-top:2px;}
+#footer_bottom_container h6{border-right:none;}
+.footer_links_list .link_list_title{border-right:medium none;}
+.footer_links_list li.last{border-right:medium none;float:left;margin-right:0;padding-right:0;}
+.brand_tooltip{bottom:56px;position:absolute;width:158px;z-index:50;font-size:11px;color:#999;line-height:18px;
+	padding:10px 15px 10px 15px;background:#fff;border:solid 1px #f0f0f0;-moz-box-shadow:0 0 5px #ccc;-webkit-box-shadow:0 0 5px #ccc;box-shadow:0 0 5px #ccc;-moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px;behavior:url(/skins/common/js/PIE.htc);}
+* html .brand_tooltip{border:solid 1px #2f2f2f;border-radius:0;}
+#footer_logos .brand_tooltip{left:-9999px;}
+#footer_logos a.footer_logo:hover .brand_tooltip,#footer_logos a.footer_logo:focus .brand_tooltip{left:-55px;}
+#footer_logos #brand_bar_HI a.footer_logo:hover .brand_tooltip,
+#footer_logos #brand_bar_DT a.footer_logo:hover .brand_tooltip,
+#footer_logos #brand_bar_ES a.footer_logo:hover .brand_tooltip,
+#footer_logos #brand_bar_HP a.footer_logo:hover .brand_tooltip,
+#footer_logos #brand_bar_HW a.footer_logo:hover .brand_tooltip,
+#footer_logos #brand_bar_HT a.footer_logo:hover .brand_tooltip,
+#footer_logos #brand_bar_HI a.footer_logo:focus .brand_tooltip,
+#footer_logos #brand_bar_DT a.footer_logo:focus .brand_tooltip,
+#footer_logos #brand_bar_ES a.footer_logo:focus .brand_tooltip,
+#footer_logos #brand_bar_HP a.footer_logo:focus .brand_tooltip,
+#footer_logos #brand_bar_HW a.footer_logo:focus .brand_tooltip,
+#footer_logos #brand_bar_HT a.footer_logo:focus .brand_tooltip{left:-66px;}
+#footer_logos li a{
+	-webkit-transition:none;
+	-moz-transition:  none;
+	-o-transition:  none;
+	-ms-transition:  none;
+	transition: none;
+}

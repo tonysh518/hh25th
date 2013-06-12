@@ -1,0 +1,21 @@
+#main{margin-bottom:30px;}
+#main  div{margin:0 auto;color:black;margin-top:30px;}
+#main  .title-div{margin-top:50px;text-align:center;}
+.give-pic{text-align:center;width:850px;height:370px;background:url(../Content/images/give-pic.png) no-repeat; position:relative;}
+#main .cover{text-align:center;width:841px;height:92px;background:url(../Content/images/give-cover.png) no-repeat;position: absolute;bottom: 7px;_bottom:-1px;left: 5px;}
+#main div .cover{font-size:14px;font-weight:bold;color:white;text-align: :left;}
+#main .cover  div{width: 755px;margin: 20px auto;text-align: left;color:white;}
+.button3  span{color: white;font-weight: bold;display: inline-block;margin-top: 13px;}
+.share{text-align:center;margin: 15px 6px;}
+.share  a{display:inline-block;width:180px;}
+.share  a  div{float:left;}
+.share  a  span{float:left;margin-left:45px;line-height: 15px;font-weight: bold;_line-height:12px;}
+.names{position: relative; font-weight:bold;margin:30px 6px;text-align:center;margin-top: 10px;width:690px;height:95px;background:url(../Content/images/give-names.jpg) no-repeat;}
+#main .names .main-title{font-size:20px;color:white;font-weight:normal;padding-top: 35px;padding-bottom: 5px;font-family: 'Arial';_padding-top:5px;}
+#main .names .subtitle{font-size:19px;color:#c2b59c;font-weight:bold;}
+.names  ul  li{line-height: 36px;text-align: left;}
+.names  .list1{position:absolute;top:123px;left:118px;}
+.names  .list2{position:absolute;top:123px;left:423px}
+.names  ul  li  .name{color:#573c05;font-size:14px;font-weight:bold;}
+.names  ul  li  .city{color:#afaaa1;font-size:14px;font-weight:bold;}
+.text{font-weight:bold;margin:30px 6px;text-align: left;margin-top: 10px;width: 666px;}
