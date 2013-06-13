@@ -60,6 +60,7 @@ list-style-type: none;
 margin-bottom: 0px;
 margin-left: 0px;
 margin-right: 5px;
+_margin-right: 4px;
 margin-top: 0px;
 padding-bottom: 0px;
 padding-left: 0px;
@@ -176,6 +177,9 @@ color: inherit;
 height: 2px;
 width: 960px;
 text-align: right;
+_height:1px;
+_background-color:transparent;
+_border-top:2px solid #c4c4c4;
 }
 /****************************************************** footer2 - start */
 

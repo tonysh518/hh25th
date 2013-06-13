@@ -3,54 +3,67 @@ html,
 button,
 input,
 select,
-textarea,div {
+textarea {
   color: black;
 }
 html{background: url(../Content/images/bg.gif) repeat-x;}
 li {
   list-style: none;
 }
-a:hover{
+a:hover,.submit:hover,.small-video:hover,
+.term-condition-title:hover
+{
 	opacity: 0.7;
 	-webkit-transition:all 0.3s ease;
 	-moz-transition:  all 0.3s ease;
 	-o-transition:  all 0.3s ease;
 	-ms-transition:  all 0.3s ease;
 	transition:  all 0.3s ease;
-	_filter:alpha(opacity=70);
+	/*_filter:alpha(opacity=100);*/
 }
+::selection {
+    background: #efe6d5;
+    color:#333;
+    text-shadow: none;
+}
+img {-moz-user-select: -moz-none;-khtml-user-select: none;-webkit-user-select: none;-ms-user-select: none; user-select: none;}
 body {
   font-size: 12px;
   line-height: 1.4;
-  font-family: 'Calibri','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';
+  font-family: 'Calibri','arial','STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';
   background:none;
   /*background-size: cover;*/
 }
 .text{margin:0 auto;text-align: left;margin-top: 10px;width: 666px;}
 .title-div{margin-top:50px;text-align:center;}
-.main-title{font-size:27px;font-family: 'Arial';font-weight: bold;}
+.main-title{font-size:27px;font-family: 'Arial';font-weight: bold;margin:0;}
 #main .subtitle{font-size:22px;font-family: 'Arial';font-weight: bold;margin-top:0px;}
 .blue {color: #8892bd;}
 .content {margin: 0 auto;width: 970px; background: url(../Content/images/content-bg.gif) repeat-x;}
 .content .logo {width: 139px;height: 31px;background: url(../Content/images/page.png) no-repeat 0px 0px;}
-.content .weibo {width: 24px;height: 20px;background: url(../Content/images/page.png) no-repeat 0px -463px;}
 .content .lightlink {color: #b38323;}
  #main {margin: 0 auto;width: 900px;min-height: 730px;}
 .header {height: 163px;}
-.header .top {height: 105px;position:relative;}
+.header .top {height: 105px;width:100%;}
 .header .top .logo {display: inline-block;margin-top: 38px;margin-left: 8px;}
-.header .top ._25pic{width: 143px;height: 56px;background: url(../Content/images/25pic.png) no-repeat;position: absolute;right: -20px;top: 32px;}
-#chinese{margin-left:267px;}
-#cnchinese{margin-left:340px;}
-.header .headnav{margin-left:0px;}
-.header .headnav li {float: left;margin: 0 6px;}
-.header .headnav li a {color: black;font-weight: bold;display: inline-block;}
-.header .headnav li .active,
-.header .headnav li a:hover {color: #a6a6a6;text-decoration: none;margin-right:0px;font-size:12px;}
+.header .top .k25pic{ width: 143px;background: url(../Content/images/_25pic.png) no-repeat;
+	margin-top: -42px;
+margin-left: 848px;
+min-height:56px; height:auto !important; height:56px;
+}
+.header .headnav{margin-left:0px;float:left;}
+.header ul li {float: left;margin: 0 6px;}
+.header ul li a {color: black;font-weight: bold;display: inline-block;background:none;}
+.header ul li .active,
+.header ul li a:hover {color: #a6a6a6;text-decoration: none;margin-right:0px;font-size:12px;}
 .split {width:1px;height: 20px;background: url(../Content/images/split.gif) no-repeat;}
-.header .headnav li.split{margin-top:3px;}
+.header ul li.split{margin-top:3px;}
+.content .header ul .weibo {width: 24px;height: 20px;background: url(../Content/images/page.png) no-repeat 0px -463px;}
+.header .langnav {float:right;}
 .footer {background: white;padding-top: 30px;}
-.footer .footlogs li{background: url(../Content/images/footer_logos.png) no-repeat};
+.footer .footlogs li{background: url(../Content/images/footer_logos.png) no-repeat;}
+#footer_logos {border-bottom:1px solid #eee;}
+#footer_bottom_container {height:130px;margin:20px 0 0;padding:0 10px;}
 .footer .arrowright {width: 20px;height: 60px;background: url(../Content/images/footer.jpg) no-repeat 0px 0px;}
 .footer .brand1 {width: 34px;height: 60px;background: url(../Content/images/footer.jpg) no-repeat -20px 0px;}
 .footer .brand2 {width: 56px;height: 60px;background: url(../Content/images/footer.jpg) no-repeat -54px 0px;}
@@ -75,13 +88,18 @@ body {
 .footer  ul {padding-top: 40px;padding-bottom: 15px;margin-left: 0px;}
 .footer  ul li {float: left;margin-right: 19px;}
 .footer  ul li a {display: inline-block;}
-.footer .grouplink {margin: 0 auto;width: 670px;}
-.footer .grouplink  div {width: 217px;margin: 0 3px;float: left;_margin:0px;}
+.footer .grouplink {margin: 0 auto;width: 690px;}
+.footer .grouplink  div {width: 217px;margin: 0 5px;float: left;_margin:0px;}
 .footer .grouplink  div a {display: inline-block;}
-.footer .grouplink  div ul {text-align: center;margin: 0;padding-top: 0px;}
-.footer .grouplink  div ul li{text-align: center;float:none;margin-right:0px;}
-.footer .grouplink  div ul  .link-title {text-align:center;font-weight: bold;font-size: 14px;color:#a6a6a6;}
+.footer .grouplink  div ul {text-align: center;margin: 0;padding-top: 10px;}
+.footer .grouplink  div ul li{text-align: center;float:none;margin-right:0px;color:#555;margin:0 0 5px 0;}
+.footer .grouplink  div ul  .link-title {text-align:center;font-weight: bold;font-size: 13px;color:#333;}
 #aboutbrand{margin-top:28px;margin-right:0px;font-weight:bold;}
+
+.footer ul.footer_links_list {margin:0;padding:0;}
+.footer ul.footer_links_list li {float:left;border-right:1px solid #888;margin:0 8px 15px 0;padding-right:8px;line-height:7px;}
+.footer ul.footer_links_list li a {color:#888;}
+.footer ul.footer_links_list li a:hover {color:#aaa;}
 
 .footer .sites {padding-top: 20px;padding-bottom: 20px;padding-left:10px;border-top: 2px solid #eeeeee;}
 .footer .sites  ul {font-size: 12px;height: 20px;clear: both;margin: 10px;padding-top:0px;padding-bottom:0px;margin-left:0px;}
@@ -91,3 +109,22 @@ body {
 .join a{display: inline-block;margin-left:10px;margin-right:10px;}
 .join a  span{color:white;font-weight:bold;display: inline-block;margin-top: 13px;_margin-top:11px;}
 .button2 span{margin-left:12px;}
+
+.home-top {background:url(../Content/images/home-top.jpg) no-repeat;width:849px;height:200px;margin:30px auto 0 auto;}
+.home-wrap .text {margin-top:30px;}
+
+.hh_register_title {width:666px;margin:30px auto 10px auto;font-size:14px;}
+.hh_register {border:1px solid #999;width:666px;margin:0 auto;}
+.hh_register_form {padding:22px;margin:0;}
+.hh_register .form_title {font-size:14px;font-weight:bold;}
+.hh_register .form_item {color:#555;float:left;margin:0 15px 0 0;}
+.hh_register .textbox {width:170px;border:1px solid #d7d7d7;font-size:12px;height:22px;line-height:22px;padding:0 5px;}
+.form_left {float:left;}
+.form_right {float:left;margin:0 0 0 20px;}
+.form_submit .submit {background:url(../Content/images/button3.png) no-repeat;width:170px;height:37px;border:none;font-size:12px;color:#fff;}
+.form_right .form_submit {margin:16px 0 0;}
+
+.term-condition {width:666px;margin:0 auto 20px auto;}
+.term-condition-title {background:url(../Content/images/bullet.gif) no-repeat 0 6px;padding:0 0 0 12px;cursor:pointer;font-size:14px;font-weight:bold;}
+.term-condition-title:hover {color:#A6A6A6;}
+.term-condition-text {display:none;overflow:hidden;margin:10px 0 0;}

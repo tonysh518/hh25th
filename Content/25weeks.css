@@ -1,5 +1,5 @@
 #main{margin-bottom:0px;}
-.footer{padding-top:0px;}
+.footer{padding-top:0px;_padding-top:30px;}
 .subtitle{font-size:18px;font-family: 'Calibri';}
 /*#main  div{margin:0 auto;color:black;margin-top:30px;}*/
 #main  .title-div{margin-top:50px;text-align:center;}
@@ -8,7 +8,19 @@
 .button3 > span{color: white;font-weight: bold;display: inline-block;margin-top: 13px;}
 .text{margin:30px auto;margin-top:50px;_margin-top:30px;}
 
-.small-video{width:260px;height:165px;background:url(../Content/images/small-video.png) no-repeat;position: absolute;right: 85px;top: 60px;}
-.c-title{color:white;font-size:32px;font-family:'Arial';text-align: left;width:800px;height:35px;}
+.small-video{width:260px;height:165px;background:url(../Content/images/small-video.png) no-repeat;position: absolute;right: 85px;top: 60px;cursor:pointer;-webkit-transform: translate3d(0, 0, 0);}
+.c-title{color:white;font-size:32px;font-family:'Arial';text-align: left;width:800px;height:40px;line-height: 36px;}
 .c-text{font-weight:bold;color:white;text-align: left;width:800px;}
 .carousel-caption{_bottom:0px;_right:0px;_width:839px;}
+.bx-controls .bx-controls-direction  .bx-prev{
+	width:22px;height:43px;
+	background:url(../Content/images/arrow-pre.png) no-repeat ;
+}
+.bx-controls .bx-controls-direction  .bx-prev:hover{background-position: 0 0;}
+.bx-controls .bx-controls-direction .bx-next{width:22px;height:43px;
+	background:url(../Content/images/arrow-next.png) no-repeat;
+	_margin-right:3px;
+}
+.bx-controls .bx-controls-direction  .bx-next:hover{background-position: 0 0;}
+.bx-pager{display:none;}
+.bxslider {height:355px;opacity:0;filter:alpha(opacity=0);overflow:hidden;}
