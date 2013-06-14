@@ -115,11 +115,11 @@ min-height:56px; height:auto !important; height:56px;
 
 .hh_register_title {width:666px;margin:30px auto 10px auto;font-size:14px;}
 .hh_register {border:1px solid #999;width:666px;margin:0 auto;}
-.hh_register_form {padding:22px;margin:0;}
+.hh_register_form {padding:22px;margin:0;_padding-bottom:0px;}
 .hh_register .form_title {font-size:14px;font-weight:bold;}
 .hh_register .form_item {color:#555;float:left;margin:0 15px 0 0;}
 .hh_register .textbox {width:170px;border:1px solid #d7d7d7;font-size:12px;height:22px;line-height:22px;padding:0 5px;}
-.form_left {float:left;}
+.form_left {float:left;width:420px;}
 .form_right {float:left;margin:0 0 0 20px;}
 .form_submit .submit {background:url(../Content/images/button3.png) no-repeat;width:170px;height:37px;border:none;font-size:12px;color:#fff;}
 .form_right .form_submit {margin:16px 0 0;}
