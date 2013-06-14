@@ -16,7 +16,9 @@ padding-left: 0px;
 padding-right: 0px;
 padding-top: 0px;
 text-align: left;
-width: 960px;}
+width: 960px;
+margin-bottom: 40px;
+}
 #mainContent .footerLogos { 
 -webkit-background-clip: border-box;
 -webkit-background-origin: padding-box;
@@ -209,3 +211,4 @@ _border-top:2px solid #c4c4c4;
 	color: #999;	
 	text-decoration:none;	
 }
+#link a{margin-right:10px;}
