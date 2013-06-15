@@ -36,8 +36,8 @@ body {
 }
 .text{margin:0 auto;text-align: left;margin-top: 10px;width: 666px;}
 .title-div{margin-top:50px;text-align:center;}
-.main-title{font-size:27px;font-family: 'Arial';font-weight: bold;margin:0;}
-#main .subtitle{font-size:22px;font-family: 'Arial';font-weight: bold;margin-top:0px;}
+.main-title{font-size:28px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin:0;}
+#main .subtitle{font-size:18px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin-top:1px;}
 .blue {color: #8892bd;}
 .content {margin: 0 auto;width: 970px; background: url(../Content/images/content-bg.gif) repeat-x;}
 .content .logo {width: 139px;height: 31px;background: url(../Content/images/page.png) no-repeat 0px 0px;}

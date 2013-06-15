@@ -11,7 +11,7 @@
 .small-video{width:260px;height:165px;background:url(../Content/images/small-video.png) no-repeat;position: absolute;right: 85px;top: 60px;cursor:pointer;-webkit-transform: translate3d(0, 0, 0);}
 .c-title{color:white;font-size:32px;font-family:'Arial';text-align: left;width:800px;height:40px;line-height: 36px;}
 .c-text{font-weight:bold;color:white;text-align: left;width:800px;}
-.carousel-caption{_bottom:0px;_right:0px;_width:839px;}
+.carousel-caption{_bottom:0px;_right:0px;_width:839px;background:none;}
 .bx-controls .bx-controls-direction  .bx-prev{
 	width:22px;height:43px;
 	background:url(../Content/images/arrow-pre.png) no-repeat ;
