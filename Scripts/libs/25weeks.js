@@ -1,7 +1,8 @@
 $(document).ready(function(){
     $('.bxslider').bxSlider(
         {
-            auto:true,
+            auto:false,
+            useCSS:false,
             tickerHover: true,
             onSliderLoad: function(){
                 $('.bxslider').animate({opacity:1});

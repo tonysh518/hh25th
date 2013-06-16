@@ -28,37 +28,39 @@ a:hover,.submit:hover,.small-video:hover,
 }
 img {-moz-user-select: -moz-none;-khtml-user-select: none;-webkit-user-select: none;-ms-user-select: none; user-select: none;}
 body {
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.4;
-  font-family: 'Calibri','arial','STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';
-  background:none;
+  font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';
+  background:url(../Content/images/header_bg.gif) no-repeat center -4px;
+  color:#5C5C5C;
   /*background-size: cover;*/
 }
 .text{margin:0 auto;text-align: left;margin-top: 10px;width: 666px;}
 .title-div{margin-top:50px;text-align:center;}
-.main-title{font-size:28px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin:0;}
-#main .subtitle{font-size:18px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin-top:1px;}
+.main-title{font-size:28px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin:0;color:#2F2E2A;}
+#main .subtitle{font-size:18px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin-top:1px;color:#2F2E2A;}
 .blue {color: #8892bd;}
 .content {margin: 0 auto;width: 970px; background: url(../Content/images/content-bg.gif) repeat-x;}
 .content .logo {width: 139px;height: 31px;background: url(../Content/images/page.png) no-repeat 0px 0px;}
 .content .lightlink {color: #b38323;}
  #main {margin: 0 auto;width: 900px;min-height: 730px;}
 .header {height: 163px;}
-.header .top {height: 105px;width:100%;}
+.header .top {height: 111px;width:100%; position: relative;}
+.header .hotline { position: absolute;top:46px;right:162px;font-size:14px;font-weight:bold;background:url(../Content/images/tel_icon.png) no-repeat 0 2px;padding:0 0 0 20px;}
 .header .top .logo {display: inline-block;margin-top: 38px;margin-left: 8px;}
 .header .top .k25pic{ width: 143px;background: url(../Content/images/_25pic.png) no-repeat;
-	margin-top: -42px;
+	margin-top: -50px;
 margin-left: 848px;
 min-height:56px; height:auto !important; height:56px;
 }
 .header .headnav{margin-left:0px;float:left;}
 .header ul li {float: left;margin: 0 6px;}
-.header ul li a {color: black;font-weight: bold;display: inline-block;background:none;}
+.header ul li a {color: black;font-weight: bold;display: inline-block;background:none;font-size:12px;}
 .header ul li .active,
-.header ul li a:hover {color: #a6a6a6;text-decoration: none;margin-right:0px;font-size:12px;}
+.header ul li a:hover {color: #a6a6a6;text-decoration: none;margin-right:0px;}
 .split {width:1px;height: 20px;background: url(../Content/images/split.gif) no-repeat;}
-.header ul li.split{margin-top:3px;}
-.content .header ul .weibo {width: 24px;height: 20px;background: url(../Content/images/page.png) no-repeat 0px -463px;}
+.header ul li.split{margin-top:1px;}
+.content .header ul .weibo {width: 24px;height: 20px;background: url(../Content/images/page.png) no-repeat 0px -463px;margin-top:-3px;}
 .header .langnav {float:right;}
 .footer {background: white;padding-top: 30px;}
 .footer .footlogs li{background: url(../Content/images/footer_logos.png) no-repeat;}
@@ -81,8 +83,8 @@ min-height:56px; height:auto !important; height:56px;
 .mail{width:22px; height:18px; background:url(../Content/images/page.png) no-repeat -53px -488px;}
 .weibo3{width:22px; height:20px; background:url(../Content/images/page.png) no-repeat -26px -484px;}
 .weibo2{width:22px; height:20px; background:url(../Content/images/page.png) no-repeat -1px -486px;}
-.button1{width:256px; height:39px; background:url(../Content/images/page.png) no-repeat -232px 0px;}
-.button2{width:256px; height:39px; background:url(../Content/images/page.png) no-repeat -234px -46px;}
+.button1{width:289px; height:39px; background:url(../Content/images/page.png) no-repeat -232px 0px;}
+.button2{width:289px; height:39px; background:url(../Content/images/page.png) no-repeat -234px -46px;}
 .button3{width:170px; height:37px; background:url(../Content/images/button3.png) no-repeat ;}
 #bottomlogo a{margin-top:15px;}
 .footer  ul {padding-top: 40px;padding-bottom: 15px;margin-left: 0px;}
@@ -93,7 +95,7 @@ min-height:56px; height:auto !important; height:56px;
 .footer .grouplink  div a {display: inline-block;}
 .footer .grouplink  div ul {text-align: center;margin: 0;padding-top: 10px;}
 .footer .grouplink  div ul li{text-align: center;float:none;margin-right:0px;color:#555;margin:0 0 5px 0;}
-.footer .grouplink  div ul  .link-title {text-align:center;font-weight: bold;font-size: 13px;color:#333;}
+.footer .grouplink  div ul  .link-title {text-align:center;font-weight: bold;color:#333;}
 #aboutbrand{margin-top:28px;margin-right:0px;font-weight:bold;}
 
 .footer ul.footer_links_list {margin:0;padding:0;}
@@ -105,7 +107,7 @@ min-height:56px; height:auto !important; height:56px;
 .footer .sites  ul {font-size: 12px;height: 20px;clear: both;margin: 10px;padding-top:0px;padding-bottom:0px;margin-left:0px;}
 .footer .sites  ul  li {float: left;margin-right: 10px;}
 .footer .sites  ul  .split {height: 14px;margin-top: 3px;_line-height:14px;}
-.join{margin:10px auto;width:570px;text-align:center;}
+.join{margin:30px auto;width:626px;text-align:center;}
 .join a{display: inline-block;margin-left:10px;margin-right:10px;}
 .join a  span{color:white;font-weight:bold;display: inline-block;margin-top: 13px;_margin-top:11px;}
 .button2 span{margin-left:12px;}
@@ -119,12 +121,12 @@ min-height:56px; height:auto !important; height:56px;
 .hh_register .form_title {font-size:14px;font-weight:bold;}
 .hh_register .form_item {color:#555;float:left;margin:0 15px 0 0;}
 .hh_register .textbox {width:170px;border:1px solid #d7d7d7;font-size:12px;height:22px;line-height:22px;padding:0 5px;}
-.form_left {float:left;width:420px;}
+.form_left {float:left;width:395px;}
 .form_right {float:left;margin:0 0 0 20px;}
 .form_submit .submit {background:url(../Content/images/button3.png) no-repeat;width:170px;height:37px;border:none;font-size:12px;color:#fff;}
 .form_right .form_submit {margin:16px 0 0;}
 
 .term-condition {width:666px;margin:0 auto 20px auto;}
-.term-condition-title {background:url(../Content/images/bullet.gif) no-repeat 0 6px;padding:0 0 0 12px;cursor:pointer;font-size:14px;font-weight:bold;}
+.term-condition-title {background:url(../Content/images/bullet.gif) no-repeat 0 6px;padding:0 0 0 12px;cursor:pointer;font-size:13px;font-weight:bold;}
 .term-condition-title:hover {color:#A6A6A6;}
 .term-condition-text {display:none;overflow:hidden;margin:10px 0 0;}

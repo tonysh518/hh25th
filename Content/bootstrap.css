@@ -203,19 +203,14 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
-  color: #333333;
-  background-color: white;
 }
 a {
-  color: #0088cc;
+  color: #B38323;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #005580;
+  color: #666;
 }
 .img-rounded {
   -webkit-border-radius: 6px;
@@ -682,7 +677,6 @@ ol ul {
   margin-bottom: 0;
 }
 li {
-  line-height: 20px;
 }
 ul.unstyled,
 ol.unstyled {
@@ -880,9 +874,7 @@ input,
 button,
 select,
 textarea {
-  font-size: 14px;
   font-weight: normal;
-  line-height: 20px;
 }
 input,
 button,

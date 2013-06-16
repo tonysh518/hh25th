@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" name="Default" comment="" />
+    <list default="true" id="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/images/25pic.png" afterPath="$PROJECT_DIR$/Content/images/25pic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/images/_25pic.png" afterPath="$PROJECT_DIR$/Content/images/_25pic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/images/bg.gif" afterPath="$PROJECT_DIR$/Content/images/bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/images/content-bg.gif" afterPath="$PROJECT_DIR$/Content/images/content-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/images/give-pic.jpg" afterPath="$PROJECT_DIR$/Content/images/give-pic.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/images/page.png" afterPath="$PROJECT_DIR$/Content/images/page.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/slider_1.jpg" afterPath="$PROJECT_DIR$/Pictures/slider_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/slider_2.jpg" afterPath="$PROJECT_DIR$/Pictures/slider_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/slider_3.jpg" afterPath="$PROJECT_DIR$/Pictures/slider_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/slider_4.jpg" afterPath="$PROJECT_DIR$/Pictures/slider_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pictures/slider_5.jpg" afterPath="$PROJECT_DIR$/Pictures/slider_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/25weeks.css" afterPath="$PROJECT_DIR$/Content/25weeks.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/libs/25weeks.js" afterPath="$PROJECT_DIR$/Scripts/libs/25weeks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/25years.css" afterPath="$PROJECT_DIR$/Content/25years.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/Layout.css" afterPath="$PROJECT_DIR$/Content/Layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/bootstrap.css" afterPath="$PROJECT_DIR$/Content/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/cnfooter.css" afterPath="$PROJECT_DIR$/Content/cnfooter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25weeks/index.html" afterPath="$PROJECT_DIR$/25weeks/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25weeks/en/index.html" afterPath="$PROJECT_DIR$/25weeks/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25years/index.html" afterPath="$PROJECT_DIR$/25years/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/25years/en/index.html" afterPath="$PROJECT_DIR$/25years/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/index.html" afterPath="$PROJECT_DIR$/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terms/index.html" afterPath="$PROJECT_DIR$/terms/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/terms/en/index.html" afterPath="$PROJECT_DIR$/terms/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/winners/index.html" afterPath="$PROJECT_DIR$/winners/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/winners/en/index.html" afterPath="$PROJECT_DIR$/winners/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/winners.css" afterPath="$PROJECT_DIR$/Content/winners.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="hh25th.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371115738577" ignored="false" />
-    <file path="/Layout.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371111336914" ignored="false" />
-    <file path="/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371115616138" ignored="false" />
-    <file path="/25weeks.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371106117954" ignored="false" />
+    <file path="/Dummy.txt" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371351121115" ignored="false" />
+    <file path="/Layout.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371363336767" ignored="false" />
+    <file path="/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371363447151" ignored="false" />
+    <file path="/25weeks.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371359742578" ignored="false" />
     <file path="/sign.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371097239528" ignored="false" />
-    <file path="/winners.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371113713858" ignored="false" />
+    <file path="/winners.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371363823578" ignored="false" />
     <file path="/daily.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371099585799" ignored="false" />
     <file path="/act.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371099588287" ignored="false" />
     <file path="/main.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371116021278" ignored="false" />
@@ -26,6 +56,9 @@
     <file path="/a.dummy" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371117748332" ignored="false" />
     <file path="$PROJECT_DIR$/../brdg/data/sites/all/modules/contrib/weibo/sinaweibo.module" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371119429693" ignored="false" />
     <file path="/sinaweibo.module" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371118272768" ignored="false" />
+    <file path="/cnfooter.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371363915851" ignored="false" />
+    <file path="/25weeks.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371358608434" ignored="false" />
+    <file path="/25years.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371360289854" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +78,113 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../avcs/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/winners/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="28" selection-start="4376" selection-end="4392" vertical-scroll-proportion="0.6752137">
+            <state line="90" column="11" selection-start="3970" selection-end="3970" vertical-scroll-proportion="-33.92857">
               <folding>
-                <marker date="1371115615000" expanded="true" signature="856:1075" placeholder="..." />
-                <marker date="1371115615000" expanded="true" signature="892:1062" placeholder="{...}" />
+                <marker date="1371363988000" expanded="true" signature="1089:1185" placeholder="..." />
+                <marker date="1371363988000" expanded="true" signature="1125:1172" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../avcs/JS/main.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="114" column="77" selection-start="6206" selection-end="6206" vertical-scroll-proportion="-24.821428">
+              <folding>
+                <marker date="1371364442000" expanded="true" signature="1204:1425" placeholder="..." />
+                <marker date="1371364442000" expanded="true" signature="1240:1412" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25years/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="112" column="84" selection-start="6439" selection-end="6439" vertical-scroll-proportion="-27.535715">
+              <folding>
+                <marker date="1371364434000" expanded="true" signature="1311:1407" placeholder="..." />
+                <marker date="1371364434000" expanded="true" signature="1347:1394" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25weeks/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="159" column="77" selection-start="8672" selection-end="8672" vertical-scroll-proportion="-26.464285">
+              <folding>
+                <marker date="1371364420000" expanded="true" signature="1856:1952" placeholder="..." />
+                <marker date="1371364420000" expanded="true" signature="1892:1939" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/winners/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="77" selection-start="6524" selection-end="6524" vertical-scroll-proportion="-26.464285">
+              <folding>
+                <marker date="1371364476000" expanded="true" signature="1319:1415" placeholder="..." />
+                <marker date="1371364476000" expanded="true" signature="1355:1402" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/terms/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="86" selection-start="8531" selection-end="8531" vertical-scroll-proportion="0.56837606">
+              <folding>
+                <marker date="1371364524000" expanded="true" signature="1116:1337" placeholder="..." />
+                <marker date="1371364524000" expanded="true" signature="1152:1324" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Layout.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/Layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="47" selection-start="2671" selection-end="2671" vertical-scroll-proportion="9.230769">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="winners.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/winners.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="53" selection-start="123" selection-end="257" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnfooter.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content/cnfooter.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="223" column="28" selection-start="7341" selection-end="7341" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="51" selection-start="5021" selection-end="5021" vertical-scroll-proportion="-22.392857">
+              <folding>
+                <marker date="1371364275000" expanded="true" signature="995:1091" placeholder="..." />
+                <marker date="1371364275000" expanded="true" signature="1031:1078" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,27 +207,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Scripts/libs/main.js" />
-        <option value="$PROJECT_DIR$/Content/jquery.fancybox.css" />
         <option value="$PROJECT_DIR$/Content/bootstrap.css" />
-        <option value="$PROJECT_DIR$/Content/enfooter.css" />
-        <option value="$PROJECT_DIR$/Scripts/libs/25weeks.js" />
-        <option value="$PROJECT_DIR$/Content/winners.css" />
+        <option value="$PROJECT_DIR$/Content/25weeks.css" />
+        <option value="$PROJECT_DIR$/Content/25years.css" />
         <option value="$PROJECT_DIR$/Content/Layout.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/25weeks/index.html" />
         <option value="$PROJECT_DIR$/25years/index.html" />
+        <option value="$PROJECT_DIR$/terms/index.html" />
+        <option value="$PROJECT_DIR$/Content/winners.css" />
         <option value="$PROJECT_DIR$/winners/index.html" />
+        <option value="$PROJECT_DIR$/Content/cnfooter.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/25weeks/en/index.html" />
         <option value="$PROJECT_DIR$/25years/en/index.html" />
-        <option value="$PROJECT_DIR$/winners/en/index.html" />
         <option value="$PROJECT_DIR$/en/index.html" />
-        <option value="$PROJECT_DIR$/../avcs/index.html" />
+        <option value="$PROJECT_DIR$/winners/en/index.html" />
+        <option value="$PROJECT_DIR$/terms/en/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
+    <option name="x" value="145" />
     <option name="y" value="22" />
     <option name="width" value="2540" />
     <option name="height" value="1357" />
@@ -196,6 +319,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="terms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hh25th" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hh25th" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="terms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,14 +484,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="2540" height="1357" extended-state="0" />
+    <frame x="145" y="22" width="2540" height="1357" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19286287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19446672" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -426,144 +567,144 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Content/enfooter.css">
+    <entry file="file://$PROJECT_DIR$/Content/25weeks.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="70" selection-start="255" selection-end="255" vertical-scroll-proportion="-2.1923077">
+        <state line="3" column="58" selection-start="178" selection-end="232" vertical-scroll-proportion="-2.1923077">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terms/index.html">
+    <entry file="file://$PROJECT_DIR$/Content/25years.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="62" selection-start="2259" selection-end="2279" vertical-scroll-proportion="0.5521368">
-          <folding>
-            <marker date="1371091559000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371091559000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/libs/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="3" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0">
+        <state line="1" column="84" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/libs/25weeks.js">
+    <entry file="file://$PROJECT_DIR$/25weeks/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="16" selection-start="1312" selection-end="1312" vertical-scroll-proportion="0.4059829">
+        <state line="39" column="6" selection-start="1817" selection-end="1862" vertical-scroll-proportion="-26.464285">
           <folding>
-            <marker date="1371114509000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114509000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content/winners.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="74" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.20396367">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25years/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="39" selection-start="1395" selection-end="1395" vertical-scroll-proportion="0.51965815">
-          <folding>
-            <marker date="1371114495000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114495000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winners/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="41" selection-start="1398" selection-end="1398" vertical-scroll-proportion="0.51965815">
-          <folding>
-            <marker date="1371114501000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114501000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winners/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="55" selection-start="5572" selection-end="5572" vertical-scroll-proportion="0.3991453">
-          <folding>
-            <marker date="1371114347000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114347000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1371363369000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1371363369000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/25years/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="55" selection-start="4893" selection-end="4893" vertical-scroll-proportion="0.5846154">
+        <state line="31" column="97" selection-start="1382" selection-end="1382" vertical-scroll-proportion="-21.035715">
           <folding>
-            <marker date="1371114339000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114339000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1371363384000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1371363384000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25weeks/index.html">
+    <entry file="file://$PROJECT_DIR$/terms/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="159" column="57" selection-start="6833" selection-end="6833" vertical-scroll-proportion="0.6264957">
+        <state line="29" column="103" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-19.678572">
           <folding>
-            <marker date="1371114334000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114334000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1371363393000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1371363393000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25weeks/en/index.html">
+    <entry file="file://$PROJECT_DIR$/Content/give.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="38" selection-start="1916" selection-end="1916" vertical-scroll-proportion="0.43846154">
+        <state line="3" column="98" selection-start="231" selection-end="234" vertical-scroll-proportion="-2.1923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/winners.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="53" selection-start="123" selection-end="257" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/winners/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="11" selection-start="3970" selection-end="3970" vertical-scroll-proportion="-33.92857">
           <folding>
-            <marker date="1371114489000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114489000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1371363988000" expanded="true" signature="1089:1185" placeholder="..." />
+            <marker date="1371363988000" expanded="true" signature="1125:1172" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/Layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="1" selection-start="1820" selection-end="1820" vertical-scroll-proportion="0.40792733">
+        <state line="62" column="47" selection-start="2671" selection-end="2671" vertical-scroll-proportion="9.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Content/cnfooter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="223" column="28" selection-start="7341" selection-end="7341" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="55" selection-start="4960" selection-end="4960" vertical-scroll-proportion="0.6264957">
+        <state line="121" column="51" selection-start="5021" selection-end="5021" vertical-scroll-proportion="-22.392857">
           <folding>
-            <marker date="1371114326000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1371114326000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1371364275000" expanded="true" signature="995:1091" placeholder="..." />
+            <marker date="1371364275000" expanded="true" signature="1031:1078" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../avcs/JS/main.js">
+    <entry file="file://$PROJECT_DIR$/25years/en/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="112" column="84" selection-start="6439" selection-end="6439" vertical-scroll-proportion="-27.535715">
+          <folding>
+            <marker date="1371364434000" expanded="true" signature="1311:1407" placeholder="..." />
+            <marker date="1371364434000" expanded="true" signature="1347:1394" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../avcs/index.html">
+    <entry file="file://$PROJECT_DIR$/en/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="28" selection-start="4376" selection-end="4392" vertical-scroll-proportion="0.6752137">
+        <state line="114" column="77" selection-start="6206" selection-end="6206" vertical-scroll-proportion="-24.821428">
           <folding>
-            <marker date="1371115615000" expanded="true" signature="856:1075" placeholder="..." />
-            <marker date="1371115615000" expanded="true" signature="892:1062" placeholder="{...}" />
+            <marker date="1371364442000" expanded="true" signature="1204:1425" placeholder="..." />
+            <marker date="1371364442000" expanded="true" signature="1240:1412" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25weeks/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="159" column="77" selection-start="8672" selection-end="8672" vertical-scroll-proportion="-26.464285">
+          <folding>
+            <marker date="1371364420000" expanded="true" signature="1856:1952" placeholder="..." />
+            <marker date="1371364420000" expanded="true" signature="1892:1939" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/winners/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="77" selection-start="6524" selection-end="6524" vertical-scroll-proportion="-26.464285">
+          <folding>
+            <marker date="1371364476000" expanded="true" signature="1319:1415" placeholder="..." />
+            <marker date="1371364476000" expanded="true" signature="1355:1402" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/terms/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="86" selection-start="8531" selection-end="8531" vertical-scroll-proportion="0.56837606">
+          <folding>
+            <marker date="1371364524000" expanded="true" signature="1116:1337" placeholder="..." />
+            <marker date="1371364524000" expanded="true" signature="1152:1324" placeholder="{...}" />
           </folding>
         </state>
       </provider>

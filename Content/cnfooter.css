@@ -205,10 +205,24 @@ _border-top:2px solid #c4c4c4;
 	padding: 10px;
 }
 
-#footer2 #shadow #link a, a:visited, a:hover, a:active
+#footer2 #shadow #link a
 {
-	font-size: 12px;
-	color: #999;	
-	text-decoration:none;	
+	color: #999;
+	text-decoration:none;
 }
 #link a{margin-right:10px;}
+
+.header .top .logo {background:url(../Content/images/logo-cn.png) no-repeat;height:42px;width:139px;margin-top:30px;}
+.header ul li a {font-size:13px;}
+.header ul.langnav li a {font-size:11px;}
+.header ul li.split {margin-top:2px;}
+
+body {font-size:12px;}
+
+.give-pic{background:url(../Content/images/give-pic.jpg) no-repeat;}
+.join a span {margin-top:12px;}
+.button3 span {margin-top:12px;}
+
+.main-title{font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';font-weight: bold;}
+#main .subtitle{font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';font-weight: bold;}
+.c-title{font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';font-weight: bold;}
