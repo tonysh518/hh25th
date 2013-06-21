@@ -4,16 +4,16 @@
     <list default="true" id="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" name="Default" comment="" />
     <ignored path="hh25th.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371611658718" ignored="false" />
+    <file path="/Dummy.txt" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371789789589" ignored="false" />
     <file path="/Layout.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371363336767" ignored="false" />
-    <file path="/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371551733513" ignored="false" />
+    <file path="/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371791435569" ignored="false" />
     <file path="/25weeks.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371528356221" ignored="false" />
     <file path="/sign.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371097239528" ignored="false" />
     <file path="/winners.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371363823578" ignored="false" />
     <file path="/daily.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371099585799" ignored="false" />
     <file path="/act.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371099588287" ignored="false" />
     <file path="/main.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371549307147" ignored="false" />
-    <file path="/jquery.fancybox.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371547974466" ignored="false" />
+    <file path="/jquery.fancybox.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371787165219" ignored="false" />
     <file path="/enfooter.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371111420969" ignored="false" />
     <file path="$PROJECT_DIR$/../avcs/JS/jquery-1.8.3.min.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371115545379" ignored="false" />
     <file path="$PROJECT_DIR$/../avcs/JS/DD_belatedPNG_0.0.8a-min.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371115545379" ignored="false" />
@@ -31,7 +31,7 @@
     <file path="/25years.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371360289854" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/paintings.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371548209196" ignored="false" />
     <file path="/paintings.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371548198182" ignored="false" />
-    <file path="$PROJECT_DIR$/../vicoria/css/base.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371549763372" ignored="false" />
+    <file path="$PROJECT_DIR$/../vicoria/css/base.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371789408797" ignored="false" />
     <file path="/base.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371549762381" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/app/main.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371549308221" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/furniture.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371548223051" ignored="false" />
@@ -44,11 +44,11 @@
     <file path="/jquery.bxslider.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371469053486" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/css/jquery.fancybox.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371547995856" ignored="false" />
     <file path="$PROJECT_DIR$/../avene_sw/application/views/winner.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371459509435" ignored="false" />
-    <file path="$PROJECT_DIR$/../vicoria/app/index.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371461209044" ignored="false" />
+    <file path="$PROJECT_DIR$/../vicoria/app/index.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371799435348" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/include/header.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371542577485" ignored="false" />
     <file path="/footer.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371463394020" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/include/footer.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371463398719" ignored="false" />
-    <file path="$PROJECT_DIR$/../vicoria/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371551733946" ignored="false" />
+    <file path="$PROJECT_DIR$/../vicoria/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371789408797" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/about.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531004521" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/blog.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531014875" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/contact.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531024653" ignored="false" />
@@ -63,7 +63,7 @@
     <file path="/contact.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371468376333" ignored="false" />
     <file path="/about.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531730686" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/cn/about.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531730686" ignored="false" />
-    <file path="$PROJECT_DIR$/../vicoria/include/htmlhead.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371547159321" ignored="false" />
+    <file path="$PROJECT_DIR$/../vicoria/include/htmlhead.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371789408797" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/cn/blog.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531550328" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/cn/clocks.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371546636326" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/cn/contact.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531859168" ignored="false" />
@@ -73,17 +73,25 @@
     <file path="$PROJECT_DIR$/../vicoria/cn/paintings.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371535316516" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/cn/press.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371531196105" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/cn/silverware.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371546498033" ignored="false" />
-    <file path="$PROJECT_DIR$/../vicoria/include_cn/htmlhead.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371548111921" ignored="false" />
+    <file path="$PROJECT_DIR$/../vicoria/include_cn/htmlhead.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371789408797" ignored="false" />
     <file path="/htmlhead.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371548111921" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/include_cn/header.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371543751329" ignored="false" />
     <file path="/header.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371543700533" ignored="false" />
     <file path="/home.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371535969914" ignored="false" />
     <file path="$PROJECT_DIR$/../vicoria/css/cn.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371549988420" ignored="false" />
     <file path="/cn.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371545127791" ignored="false" />
-    <file path="$PROJECT_DIR$/../vicoria/css/index.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371551613022" ignored="false" />
+    <file path="$PROJECT_DIR$/../vicoria/css/index.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371789408797" ignored="false" />
     <file path="/index.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371551611486" ignored="false" />
     <file path="$PROJECT_DIR$/../dl/sites/all/themes/dl/css/style.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371554109543" ignored="false" />
     <file path="/style.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371552344190" ignored="false" />
+    <file path="$PROJECT_DIR$/../91150th/index.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371791435569" ignored="false" />
+    <file path="$PROJECT_DIR$/../91150th/video.php" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371794868269" ignored="false" />
+    <file path="$USER_HOME$/Project/FF/Porsche/911-fifty/html5video/jquery-video-master/example.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371799439431" ignored="false" />
+    <file path="/example.html" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371797071785" ignored="false" />
+    <file path="$USER_HOME$/Project/FF/Porsche/911-fifty/html5video/jquery-video-master/jquery.video.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371797153358" ignored="false" />
+    <file path="$USER_HOME$/Project/FF/Porsche/911-fifty/html5video/jquery-video-master/jquery.video.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371797598370" ignored="false" />
+    <file path="/jquery.video.css" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371797597986" ignored="false" />
+    <file path="/jquery.video.js" changelist="c80333cc-2a4d-4c46-ae0b-b64de9fe04ee" time="1371796560681" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,32 +114,119 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/25weeks/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="336" selection-start="4098" selection-end="4098" vertical-scroll-proportion="0.0">
+            <state line="22" column="70" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-14.928572">
               <folding>
-                <marker date="1371528290000" expanded="true" signature="1856:1952" placeholder="..." />
-                <marker date="1371528290000" expanded="true" signature="1892:1939" placeholder="{...}" />
+                <marker date="1371789826000" expanded="true" signature="1846:1942" placeholder="..." />
+                <marker date="1371789826000" expanded="true" signature="1882:1929" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25weeks/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="13" selection-start="2305" selection-end="2305" vertical-scroll-proportion="-31.214285">
+              <folding>
+                <marker date="1371789829000" expanded="true" signature="1654:1750" placeholder="..." />
+                <marker date="1371789829000" expanded="true" signature="1690:1737" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/25weeks/index.html">
+        <entry file="file://$PROJECT_DIR$/25years/en/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="184" selection-start="3432" selection-end="3432" vertical-scroll-proportion="0.016239317">
+            <state line="42" column="13" selection-start="2139" selection-end="2139" vertical-scroll-proportion="0.6820513">
               <folding>
-                <marker date="1371528429000" expanded="true" signature="1483:1579" placeholder="..." />
-                <marker date="1371528429000" expanded="true" signature="1519:1566" placeholder="{...}" />
+                <marker date="1371789819000" expanded="true" signature="1488:1584" placeholder="..." />
+                <marker date="1371789819000" expanded="true" signature="1524:1571" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="25weeks.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Content/25weeks.css">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/25years/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="23" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="40" column="13" selection-start="1910" selection-end="1910" vertical-scroll-proportion="-27.142857">
+              <folding>
+                <marker date="1371789796000" expanded="true" signature="1259:1355" placeholder="..." />
+                <marker date="1371789796000" expanded="true" signature="1295:1342" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="13" selection-start="2151" selection-end="2151" vertical-scroll-proportion="-27.821428">
+              <folding>
+                <marker date="1371789813000" expanded="true" signature="1375:1596" placeholder="..." />
+                <marker date="1371789813000" expanded="true" signature="1411:1583" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win/terms/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="13" selection-start="2089" selection-end="2089" vertical-scroll-proportion="-26.464285">
+              <folding>
+                <marker date="1371789801000" expanded="true" signature="1313:1534" placeholder="..." />
+                <marker date="1371789801000" expanded="true" signature="1349:1521" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win/terms/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="13" selection-start="1923" selection-end="1923" vertical-scroll-proportion="-25.785715">
+              <folding>
+                <marker date="1371789809000" expanded="true" signature="1147:1368" placeholder="..." />
+                <marker date="1371789809000" expanded="true" signature="1183:1355" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win/winners/en/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="4" selection-start="1381" selection-end="1381" vertical-scroll-proportion="-14.928572">
+              <folding>
+                <marker date="1371789862000" expanded="true" signature="1531:1627" placeholder="..." />
+                <marker date="1371789862000" expanded="true" signature="1567:1614" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win/winners/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="4" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-13.571428">
+              <folding>
+                <marker date="1371789860000" expanded="true" signature="1292:1388" placeholder="..." />
+                <marker date="1371789860000" expanded="true" signature="1328:1375" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="4" selection-start="1021" selection-end="1021" vertical-scroll-proportion="-12.892858">
+              <folding>
+                <marker date="1371789857000" expanded="true" signature="1162:1258" placeholder="..." />
+                <marker date="1371789857000" expanded="true" signature="1198:1245" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,22 +249,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Content/bootstrap.css" />
-        <option value="$PROJECT_DIR$/Content/25years.css" />
-        <option value="$PROJECT_DIR$/Content/Layout.css" />
-        <option value="$PROJECT_DIR$/terms/index.html" />
-        <option value="$PROJECT_DIR$/Content/winners.css" />
-        <option value="$PROJECT_DIR$/Content/cnfooter.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/en/index.html" />
-        <option value="$PROJECT_DIR$/terms/en/index.html" />
         <option value="$PROJECT_DIR$/winners/en/index.html" />
         <option value="$PROJECT_DIR$/winners/index.html" />
+        <option value="$PROJECT_DIR$/Content/25weeks.css" />
+        <option value="$PROJECT_DIR$/Content/enfooter.css" />
+        <option value="$PROJECT_DIR$/Content/jquery.fancybox.css" />
+        <option value="$PROJECT_DIR$/Content/give.css" />
         <option value="$PROJECT_DIR$/25years/index.html" />
+        <option value="$PROJECT_DIR$/win/terms/en/index.html" />
+        <option value="$PROJECT_DIR$/win/terms/index.html" />
+        <option value="$PROJECT_DIR$/en/index.html" />
         <option value="$PROJECT_DIR$/25years/en/index.html" />
         <option value="$PROJECT_DIR$/25weeks/en/index.html" />
-        <option value="$PROJECT_DIR$/Content/25weeks.css" />
         <option value="$PROJECT_DIR$/25weeks/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/win/winners/index.html" />
+        <option value="$PROJECT_DIR$/win/winners/en/index.html" />
       </list>
     </option>
   </component>
@@ -235,6 +330,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="win" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="winners" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -246,6 +345,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hh25th" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="win" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -264,6 +367,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hh25th" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="win" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -281,6 +388,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="win" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="terms" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -300,20 +411,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="en" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hh25th" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hh25th" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Content" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -413,18 +510,38 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="25" width="2540" height="1357" extended-state="0" />
+    <frame x="20" y="25" width="2540" height="1357" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292978" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19927827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20248596" sideWeight="0.67070216" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -497,94 +614,138 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Content/25years.css">
+    <entry file="file://$PROJECT_DIR$/Content/25weeks.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="84" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" />
+        <state line="13" column="23" selection-start="950" selection-end="950" vertical-scroll-proportion="0.20617697" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/terms/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="103" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-19.678572" />
+    <entry file="file://$PROJECT_DIR$/Content/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/give.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="98" selection-start="231" selection-end="234" vertical-scroll-proportion="-2.1923077" />
+        <state line="9" column="44" selection-start="714" selection-end="714" vertical-scroll-proportion="0.14120561" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/winners.css">
+    <entry file="file://$PROJECT_DIR$/Content/jquery.fancybox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="53" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="13" selection-start="4849" selection-end="4849" vertical-scroll-proportion="0.6333333" />
+        <state line="126" column="46" selection-start="2190" selection-end="2190" vertical-scroll-proportion="1.9768786">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Content/cnfooter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="227" column="129" selection-start="7746" selection-end="7746" vertical-scroll-proportion="0.9058629" />
+        <state line="8" column="6" selection-start="228" selection-end="230" vertical-scroll-proportion="0.1255161">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/Layout.css">
+    <entry file="file://$PROJECT_DIR$/Content/enfooter.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="46" selection-start="2838" selection-end="2838" vertical-scroll-proportion="0.015689513" />
+        <state line="41" column="106" selection-start="3273" selection-end="3273" vertical-scroll-proportion="0.65025043">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/25years/en/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="7" selection-start="1433" selection-end="1433" vertical-scroll-proportion="0.12991454" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25years/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="10" selection-start="4231" selection-end="4231" vertical-scroll-proportion="0.8034188" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terms/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="8" selection-start="7507" selection-end="7507" vertical-scroll-proportion="-0.7307692" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winners/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="77" selection-start="5254" selection-end="5254" vertical-scroll-proportion="0.5205128" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="31" selection-start="1876" selection-end="1876" vertical-scroll-proportion="0.61709404" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winners/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="196" selection-start="4201" selection-end="4201" vertical-scroll-proportion="0.5521368" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/25weeks/en/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="336" selection-start="4098" selection-end="4098" vertical-scroll-proportion="0.0">
+        <state line="19" column="4" selection-start="1021" selection-end="1021" vertical-scroll-proportion="-12.892858">
           <folding>
-            <marker date="1371528290000" expanded="true" signature="1856:1952" placeholder="..." />
-            <marker date="1371528290000" expanded="true" signature="1892:1939" placeholder="{...}" />
+            <marker date="1371789857000" expanded="true" signature="1162:1258" placeholder="..." />
+            <marker date="1371789857000" expanded="true" signature="1198:1245" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Content/25weeks.css">
+    <entry file="file://$PROJECT_DIR$/win/winners/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="950" selection-end="950" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="20" column="4" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-13.571428">
+          <folding>
+            <marker date="1371789860000" expanded="true" signature="1292:1388" placeholder="..." />
+            <marker date="1371789860000" expanded="true" signature="1328:1375" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win/winners/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="4" selection-start="1381" selection-end="1381" vertical-scroll-proportion="-14.928572">
+          <folding>
+            <marker date="1371789862000" expanded="true" signature="1531:1627" placeholder="..." />
+            <marker date="1371789862000" expanded="true" signature="1567:1614" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win/terms/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="13" selection-start="1923" selection-end="1923" vertical-scroll-proportion="-25.785715">
+          <folding>
+            <marker date="1371789809000" expanded="true" signature="1147:1368" placeholder="..." />
+            <marker date="1371789809000" expanded="true" signature="1183:1355" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win/terms/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="13" selection-start="2089" selection-end="2089" vertical-scroll-proportion="-26.464285">
+          <folding>
+            <marker date="1371789801000" expanded="true" signature="1313:1534" placeholder="..." />
+            <marker date="1371789801000" expanded="true" signature="1349:1521" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="2151" selection-end="2151" vertical-scroll-proportion="-27.821428">
+          <folding>
+            <marker date="1371789813000" expanded="true" signature="1375:1596" placeholder="..." />
+            <marker date="1371789813000" expanded="true" signature="1411:1583" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25years/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="13" selection-start="1910" selection-end="1910" vertical-scroll-proportion="-27.142857">
+          <folding>
+            <marker date="1371789796000" expanded="true" signature="1259:1355" placeholder="..." />
+            <marker date="1371789796000" expanded="true" signature="1295:1342" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25weeks/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="70" selection-start="1443" selection-end="1443" vertical-scroll-proportion="-14.928572">
+          <folding>
+            <marker date="1371789826000" expanded="true" signature="1846:1942" placeholder="..." />
+            <marker date="1371789826000" expanded="true" signature="1882:1929" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/25weeks/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="184" selection-start="3432" selection-end="3432" vertical-scroll-proportion="0.016239317">
+        <state line="46" column="13" selection-start="2305" selection-end="2305" vertical-scroll-proportion="-31.214285">
           <folding>
-            <marker date="1371528429000" expanded="true" signature="1483:1579" placeholder="..." />
-            <marker date="1371528429000" expanded="true" signature="1519:1566" placeholder="{...}" />
+            <marker date="1371789829000" expanded="true" signature="1654:1750" placeholder="..." />
+            <marker date="1371789829000" expanded="true" signature="1690:1737" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/25years/en/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="13" selection-start="2139" selection-end="2139" vertical-scroll-proportion="0.6820513">
+          <folding>
+            <marker date="1371789819000" expanded="true" signature="1488:1584" placeholder="..." />
+            <marker date="1371789819000" expanded="true" signature="1524:1571" placeholder="{...}" />
           </folding>
         </state>
       </provider>

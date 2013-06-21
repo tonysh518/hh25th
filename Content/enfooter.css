@@ -41,7 +41,7 @@
 .footer_links_list .link_list_title{border-right:medium none;}
 .footer ul.footer_links_list li.last {border-right:medium none;float:left;margin-right:0;padding-right:0;}
 .brand_tooltip{bottom:56px;position:absolute;width:158px;z-index:50;font-size:11px;color:#999;line-height:18px;
-	padding:10px 15px 10px 15px;background:#fff;border:solid 1px #f0f0f0;-moz-box-shadow:0 0 5px #ccc;-webkit-box-shadow:0 0 5px #ccc;box-shadow:0 0 5px #ccc;-moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px;behavior:url(/skins/common/js/PIE.htc);}
+	padding:10px 15px 10px 15px;background:#fff;border:solid 1px #f0f0f0;-moz-box-shadow:0 0 5px #ccc;-webkit-box-shadow:0 0 5px #ccc;box-shadow:0 0 5px #ccc;-moz-border-radius:4px 4px 4px 4px;-webkit-border-radius:4px 4px 4px 4px;border-radius:4px 4px 4px 4px;}
 * html .brand_tooltip{border:solid 1px #2f2f2f;border-radius:0;}
 #footer_logos .brand_tooltip{left:-9999px;}
 #footer_logos a.footer_logo:hover .brand_tooltip,#footer_logos a.footer_logo:focus .brand_tooltip{left:-55px;}
