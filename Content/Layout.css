@@ -130,3 +130,22 @@ min-height:56px; height:auto !important; height:56px;
 .term-condition-title {background:url(../Content/images/bullet.gif) no-repeat 0 6px;padding:0 0 0 12px;cursor:pointer;font-size:13px;font-weight:bold;}
 .term-condition-title:hover {color:#A6A6A6;}
 .term-condition-text {display:none;overflow:hidden;margin:10px 0 0;}
+.terms-text {height:600px;width:750px;margin:0 auto;}
+
+.jspContainer{overflow: hidden;position: relative;}
+.jspPane{position: absolute;}
+.jspVerticalBar{position: absolute;top: 0;right: 0;width: 5px;height: 100%;background: red;}
+.jspVerticalBar *,
+.jspHorizontalBar *{margin: 0;padding: 0;}
+.jspCap{display: none;}
+.jspHorizontalBar .jspCap{float: left;}
+.jspTrack{background: #f8f8f8; position: relative;}
+.jspDrag{background: #aaa;position: relative;top: 0;left: 0;cursor: pointer;}
+.jspHorizontalBar .jspTrack,.jspHorizontalBar .jspDrag{float: left;height: 100%;}
+.jspArrow{background: #50506d;text-indent: -20000px;display: block;cursor: pointer;}
+.jspArrow.jspDisabled{cursor: default;background: #80808d;}
+.jspVerticalBar .jspArrow{height: 16px;}
+.jspHorizontalBar .jspArrow{width: 16px;float: left;height: 100%;}
+.jspVerticalBar .jspArrow:focus{outline: none;}
+.jspCorner{background: #eeeef4;float: left;height: 100%;}
+* html .jspCorner{margin: 0 -3px 0 0;}

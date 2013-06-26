@@ -10,7 +10,7 @@
 
 .small-video{width:260px;height:165px;background:url(../Content/images/small-video.png) no-repeat;position: absolute;right: 85px;top: 60px;cursor:pointer;-webkit-transform: translate3d(0, 0, 0);}
 .c-title{color:white;font-size:28px;font-family:'Frutiger Neue W01 Bd','Calibri','Arial','sans-serif';font-weight:normal;text-align: left;width:800px;height:40px;line-height: 36px;}
-.c-text{color:white;text-align: left;width:800px;font-size:12px;}
+.c-text{color:white;text-align: left;width:800px;font-size:14px;}
 .c-text a {color:white;}
 .carousel-caption{_bottom:0px;_right:0px;_width:839px;background:url(../Content/images/fancybox_overlay.png);padding:8px 15px;}
 .bx-controls .bx-controls-direction  .bx-prev{
