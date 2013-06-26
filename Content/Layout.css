@@ -35,7 +35,7 @@ body {
   color:#5C5C5C;
   /*background-size: cover;*/
 }
-.text{margin:0 auto;text-align: left;margin-top: 10px;width: 666px;}
+.text{margin:0 auto;text-align: left;margin-top: 10px;width: 666px;font-size:12px;}
 .title-div{margin-top:50px;text-align:center;}
 .main-title{font-size:28px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin:0;color:#2F2E2A;}
 #main .subtitle{font-size:18px;font-family: 'Frutiger Neue W01 Bd', 'Calibri', 'Arial', 'sans-serif';font-weight: normal;margin-top:1px;color:#2F2E2A;}
