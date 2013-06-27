@@ -6,7 +6,7 @@
 .give-pic{width:840px;height:400px; margin:0 auto; margin-top:30px;position:relative;}
 .give-pic ul{margin-left:0px;}
 .button3 > span{color: white;font-weight: bold;display: inline-block;margin-top: 13px;}
-.text{margin:30px auto;margin-top:30px;_margin-top:30px;}
+.text{margin:30px auto;margin-top:30px;_margin-top:30px;width:780px;font-size:14px;}
 
 .small-video{width:260px;height:165px;background:url(../Content/images/small-video.png) no-repeat;position: absolute;right: 85px;top: 60px;cursor:pointer;-webkit-transform: translate3d(0, 0, 0);}
 .c-title{color:white;font-size:28px;font-family:'Frutiger Neue W01 Bd','Calibri','Arial','sans-serif';font-weight:normal;text-align: left;width:800px;height:40px;line-height: 36px;}

@@ -130,7 +130,7 @@ min-height:56px; height:auto !important; height:56px;
 .term-condition-title {background:url(../Content/images/bullet.gif) no-repeat 0 6px;padding:0 0 0 12px;cursor:pointer;font-size:13px;font-weight:bold;}
 .term-condition-title:hover {color:#A6A6A6;}
 .term-condition-text {display:none;overflow:hidden;margin:10px 0 0;}
-.terms-text {height:600px;width:750px;margin:0 auto;}
+.terms-text {height:430px;width:750px;margin:0 auto;}
 
 .jspContainer{overflow: hidden;position: relative;}
 .jspPane{position: absolute;}

@@ -61,8 +61,7 @@ list-style-position: outside;
 list-style-type: none;
 margin-bottom: 0px;
 margin-left: 0px;
-margin-right: 5px;
-_margin-right: 4px;
+margin-right: 12px;
 margin-top: 0px;
 padding-bottom: 0px;
 padding-left: 0px;
@@ -71,6 +70,7 @@ padding-top: 0px;
 position: relative;
 text-align: left;
 width: 76px;}
+*html #mainContent .footerLogos li {margin:0 4px 0 0;}
 #mainContent .footerLogos li a { display:block; height: 76px; 
 	background-image:url(../Content/images/logo_brandLogoBars.gif); background-repeat: no-repeat; 
 
@@ -226,3 +226,5 @@ body {font-size:12px;}
 .main-title{font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';font-weight: bold;}
 #main .subtitle{font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';font-weight: bold;}
 .c-title{font-family: Arial,'STHeiti','simsun','sans-serif','黑体','微软雅黑', '\534e\6587\7ec6\9ed1', '\9ed1\4f53';font-weight: bold;}
+
+.year-video{background:url(../Pictures/video.jpg) no-repeat;}

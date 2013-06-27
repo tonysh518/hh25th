@@ -1,8 +1,9 @@
 #main{margin-bottom:30px;}
 #main  div{margin:0 auto;margin-top:30px;}
 #main  .title-div{margin-top:10px;text-align:center;}
+#main .main-title {margin-top:10px;}
 .give-pic{text-align:center;width:850px;height:321px;background:url(../Content/images/give-pic-en.jpg) no-repeat; position:relative;}
-#main .cover{text-align:center;width:841px;background:url(../Content/images/give-cover.png) no-repeat;position: absolute;bottom: 7px;left: 5px;_bottom:-1px;}
+#main .cover{text-align:center;width:841px;height:92px;background:url(../Content/images/give-cover.png) no-repeat;position: absolute;bottom: 7px;left: 5px;_bottom:-1px;}
 #main div .cover{font-size:14px;font-weight:bold;color:white;text-align:left;}
 #main .cover  div{width: 755px;margin: 20px auto;text-align: left;color:white;}
 .button3  span{color: white;font-weight: bold;display: inline-block;margin-top: 13px;}
