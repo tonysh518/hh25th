@@ -1,4 +1,17 @@
-$(documcnt).ready(function(){
+$(document).ready(function(){
+
+    $('.year-video a').bind('click',function(){
+        var tpl = $('#video-tpl').html();
+        $('.year-video').html(tpl);
+        _gaq.push(['_trackEvcnt', 'Video', 'Play', 'cn']);
+    });
+
+    if($('.touch').length > 0)
+    {
+        var tpl = $('#video-touch-tpl').html();
+        $('.year-video').html(tpl);
+    }
+
     $('.headnav a').eq(0).bind('click',function(){
         _gaq.push(['_trackEvcnt', 'Link', 'Index', 'cn']);
     });
