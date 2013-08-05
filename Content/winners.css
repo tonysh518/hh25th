@@ -13,12 +13,13 @@
 .share  a  span{line-height: 15px;font-weight: bold;_line-height:12px;}
 .names-first{position: relative; font-weight:bold;margin:30px 6px;text-align:center;margin-top: 10px;width:690px;height:95px;background:url(../Content/images/give-names.jpg) no-repeat;}
 #main .names-first .main-title{font-size:20px;color:white;font-weight:bold;padding-top: 35px;padding-bottom: 5px;font-family: 'Arial';_padding-top:5px;}
-.names{position: relative; font-weight:bold;margin:30px 6px;text-align:center;margin-top: 10px;width:690px;height:381px;background:url(../Content/images/give-names.gif) no-repeat;}
+.names{position: relative; font-weight:bold;margin:30px 6px;text-align:center;margin-top: 10px;width:690px;height:949px;background:url(../Content/images/give-names-40.gif) no-repeat;}
 #main .names .main-title{font-size:22px;color:white;padding-top: 20px;padding-bottom: 5px;_margin-top:-5px;}
 #main .names .subtitle{font-size:19px;color:#c2b59c;}
 .names  ul  li{line-height: 35px;text-align: left;}
-.names  .list1{position:absolute;top:123px;left:118px;}
-.names  .list2{position:absolute;top:123px;left:423px}
+.names  .list1{position:absolute;top:123px;left:68px;}
+.names  .list2{position:absolute;top:123px;left:383px}
 .names  ul  li  .name{color:#573c05;font-size:14px;font-weight:bold;}
 .names  ul  li  .city{color:#afaaa1;font-size:14px;font-weight:bold;}
-.names .text{width:520px;position:absolute;bottom:25px;left:80px;font-weight: normal;}
+.names  ul  li  .pos{color:#fff;background:url(../Content/images/winner_name_li.png) no-repeat;width:28px;height:28px;text-align:center;line-height: 28px;float:left;margin:3px 10px 0 0;}
+.names .text{width:520px;position:absolute;bottom:35px;left:80px;font-weight: normal;}
